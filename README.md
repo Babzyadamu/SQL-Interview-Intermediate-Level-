@@ -43,3 +43,23 @@ The initial table looks like this
 Below is the query used to answer the question
 
 ![](Upper_CourseName.jpg)
+
+## Question 3: Replace the CourseName null values in Sales table with the CourseName in the Courses table?
+
+The initial Sales table looked like this
+
+![](Sales_table.jpg)
+
+The query below was used to answer the question
+
+![](SALES_COURSENAME_UPDATE.jpg)
+
+## Question 4: Replace the Sales_Amount null values in Sales table with total_revenue in the Courses table?
+
+Below is the query used to solve this question
+
+![](Total_Revenue.jpg)
+
+## Conclusion:
+
+This interview tested my ability on how to make modifications to different tables in the database. I hope you have been able to gain 1 or 2 things. Please if you find this useful, kindly share with others. Also 
