@@ -62,4 +62,5 @@ Below is the query used to solve this question
 
 ## Conclusion:
 
-This interview tested my ability on how to make modifications to different tables in the database. I hope you have been able to gain 1 or 2 things. Please if you find this useful, kindly share with others. Also 
+This interview tested my ability on how to make modifications to different tables in the database. I hope you have been able to gain 1 or 2 things. Please if you find this useful, kindly share with others. The sql file is attached to my files. Also 
+### [FOLLOW @ahmed adamu](https://www.linkedin.com/in/ahmed-adamu-0b63b9a5)
