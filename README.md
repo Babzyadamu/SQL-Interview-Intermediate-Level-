@@ -1,1 +1,1 @@
-# SQL-Interview-Intermediate-Level-
+# SQL-Interview-Intermediate-Level
